@@ -37,6 +37,7 @@ We are treating malicious intentions as an external threat actor with access to 
 
 ## Trust Assumptions
 
+- Hardware or cloud environment is trusted, so DHIS2 doesn't implement or expect any security controls at this level
 - DHIS2 Server Administrator has full access to the DHIS2 database, database encryption key, and secrets stored in the DHIS2 database
 
 ## Security Objectives
