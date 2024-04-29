@@ -25,7 +25,20 @@
 ### DHIS2 Server Administrator
 
 - Can access server console and DHIS2 database with administrative permissions
+- Can install new version of DHIS2 and operating system updates
 - Can configure database backup
+
+### DHIS2 Developer
+
+- Can commit new functionality to the DHIS2 code repository
+
+### DHIS2 Build Manager
+
+- Can create and push DHIS2 build to the public repository
+
+### DHIS2 App Hub Developer
+
+- Can create and publish a DHIS2 web application
 
 ## Adversaries
 
