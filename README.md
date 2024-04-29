@@ -43,5 +43,7 @@ We treat the malicious intentions of a legitimate user as actions of an external
 
 ## Security Invariants
 
-- An unauthenticated party can't confirm presence of a specific DHIS2 user account
+- Account sign-up requires email verification
+- An unauthenticated party can't validate the presence of a specific DHIS2 user account
 - Any sensitive operation requires re-authentication
+- Any sensitive operation generates a security log event
