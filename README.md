@@ -2,8 +2,8 @@
 
 ## Scope
 
-- DHIS2 server application (backend)
-- DHIS2 mobile application
+- DHIS2 server application (backend and web frontend)
+- Mobile application (DHIS2 Capture)
 
 ## Principals
 
